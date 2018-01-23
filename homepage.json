@@ -6,5 +6,5 @@
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
 	"Header_name": "Cobalt",
-	"Body_text": "\tCobalt is a web-based code generator and framework using PHP and Oracle Database created by JV Roig. It makes web-based systems maintainable, scalable, secure and efficient, and makes the life of developers a lot easier. Cobalt is also insert a bunch of words here to see how well the textbox will adjust to the amount of characters in this paragraph.       "
+	"Body_text": "Cobalt is a web-based code generator and framework using PHP and Oracle Database created by JV Roig. It makes web-based systems maintainable, scalable, secure and efficient, and makes the life of developers a lot easier. Long texts need to be used with the <p> attribute rather than the <span> attribute to accommodate for the length and height of the words and characters."
 }
